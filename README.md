@@ -28,7 +28,8 @@ conda install sklearn
 ## Running 
 Now, we ready and we can run the file titanic.py. We can also select which features we want to use to train our classifier in the function
 
-```getFeatures()
+```
+get_features()
 ```
 
 Features currently this code is using are -
